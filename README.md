@@ -10,12 +10,15 @@
    - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1meVjuIBbY0PDD2iEChq7fAK_UfgOSdCk/view?usp=sharing)
   
    - ⚡ Fun fact **Coding can “power up” your brain**
+
+&nbsp;
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aime-divin-iragena-751192148/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aime-divin-iragena-751192148/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22305130" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22305130" height="30" width="40" /></a>
 </p>
+&nbsp;&nbsp;
 <hr>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -61,12 +64,13 @@
   </a> 
 </p>
 
-
+&nbsp;&nbsp;
 <hr>
+<h3>📊 GitHub Stats:</h3>
 <div>
-  <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=aimedivin&theme=highcontrast&show_icons=true&hide_border=true&count_private=true"/>
+  <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=aimedivin&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   
-  <img align="rght" width="34.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimedivin&theme=highcontrast&show_icons=true&hide_border=true&layout=compact">
+  <img align="rght" width="34.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimedivin&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
