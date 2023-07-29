@@ -68,9 +68,9 @@
 
 <h3>📊 GitHub Stats:</h3>
 <div>
-  <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=aimedivin&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false"/>
+  <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=aimedivin&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   
-  <img align="rght" width="34.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimedivin&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
+  <img align="rght" width="34.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimedivin&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false&layout=compact">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
