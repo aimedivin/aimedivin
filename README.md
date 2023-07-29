@@ -75,6 +75,10 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
+![](https://github-readme-stats.vercel.app/api?username=aimedivin&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aimedivin&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 
 
 
