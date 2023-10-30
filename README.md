@@ -7,7 +7,7 @@
 
    - 📫 How to reach me **aimedifi003@gmail.com**
   
-   - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1meVjuIBbY0PDD2iEChq7fAK_UfgOSdCk/view?usp=sharing)
+   - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1l9WghZKwNTVyrNr_jKfOrCMnSbTs9lgL/view?usp=sharing)
   
    - ⚡ Fun fact **Coding can “power up” your brain**
 &nbsp;
