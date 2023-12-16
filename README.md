@@ -14,8 +14,8 @@
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/aime-divin-iragena-751192148/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aime-divin-iragena-751192148/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22305130" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22305130" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aime-divin-iragena-751192148/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aime-divin-iragena-751192148/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22305130" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22305130" height="30" width="40" /></a>
 </p>
 
 <hr>
