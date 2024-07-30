@@ -1,7 +1,7 @@
 <h1 >Hi 👋, I'm Aime Divin</h1>
 <h3 >A passionate developer from Rwanda</h3>
           
-   - 🔭 I’m currently working on [C-and-B-Transport](https://github.com/aimedivin/C-and-B-Transport) & [NodeJS levelUp](https://github.com/aimedivin/Leveling-up-as-NodeJS-developer)
+   - 🔭 I’m currently working on [C-and-B-Transport](https://github.com/aimedivin/C-and-B-Transport) & [knights-ecomm-fe](https://github.com/atlp-rwanda/knights-ecomm-fe)
 
    - 🌱 I’m currently learning **NODEJS, Express js**
 
