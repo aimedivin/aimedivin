@@ -1,3 +1,6 @@
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=aimedivin&label=Profile%20Views&color=1&icon=4&pretty=true" />
+</a>
 <h1 >Hi 👋, I'm Aime Divin</h1>
 <h3 >A passionate developer from Rwanda</h3>
           
