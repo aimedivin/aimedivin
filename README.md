@@ -6,7 +6,7 @@
           
    - 🔭 I’m currently working on [atlp-pulse-fn](https://github.com/atlp-rwanda/atlp-pulse-fn) & [atlp-pulse-bn](https://github.com/atlp-rwanda/atlp-pulse-bn)
 
-   - 🌱 I’m currently learning **NODEJS, Express js**
+  <!-- - 🌱 I’m currently learning **NODEJS, Express js**-->
 
    - 📫 How to reach me **aimedifi003@gmail.com**
   <!--
