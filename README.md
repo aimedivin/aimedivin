@@ -4,13 +4,14 @@
 <h1 >Hi 👋, I'm Aime Divin</h1>
 <h3 >A passionate developer from Rwanda</h3>
           
-   - 🔭 I’m currently working on [C-and-B-Transport](https://github.com/aimedivin/C-and-B-Transport) & [knights-ecomm-fe](https://github.com/atlp-rwanda/knights-ecomm-fe)
+   - 🔭 I’m currently working on [atlp-pulse-fn](https://github.com/atlp-rwanda/atlp-pulse-fn) & [atlp-pulse-bn](https://github.com/atlp-rwanda/atlp-pulse-bn)
 
    - 🌱 I’m currently learning **NODEJS, Express js**
 
    - 📫 How to reach me **aimedifi003@gmail.com**
-  
-   - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1M76uyRGaz-zsLQKlYOZfJ2uko_ujucov/view?usp=sharing)  
+  <!--
+   - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1M76uyRGaz-zsLQKlYOZfJ2uko_ujucov/view?usp=sharing) 
+   -->
    - ⚡ Fun fact **Coding can “power up” your brain**
 &nbsp;
 <hr>
