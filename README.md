@@ -1,10 +1,10 @@
 <div>
-  <img src="https://visitcount.itsvg.in/api?id=aimedivin&label=Profile%20Views&color=1&icon=4&pretty=true" />
-</div>
-<div>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=200&multiline=true&repeat=false&width=610&height=70&lines=Hi+there!+%F0%9F%91%8B+I'm+Aime+Divin%2C;I'm+a+Full-stack+developer%2C+Thanks+for+stopping+by!" alt="Typing SVG" />
+  <img src="https://views-counter.vercel.app/badge?pageId=aimedivin%2F&leftColor=000000&rightColor=1899b9&type=total&label=°_°&style=none" alt="Views Counter">
 </div>
 <br>
+<div>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=200&color=FFFFFF&multiline=true&repeat=false&width=610&height=80&lines=Hi+there!+%F0%9F%91%8B+I'm+Aime+Divin%2C;I'm+a+Full-stack+developer%2C+Thanks+for+stopping+by!" alt="Typing SVG" /></a>
+</div>
 <div>
   <h4>Tech Stack:</h4>
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" style="height: 23px;">
